@@ -4,7 +4,18 @@
 	height: 100%;
 }
 
+.bar{
+
+	z-index: 100;
+}
+.myMap{
+z-index: -1;
+
+}
+
 #map {
+
 	height: 100%;
 	width: 100%;
+	
 }

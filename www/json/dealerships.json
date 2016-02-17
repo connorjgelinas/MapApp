@@ -1,0 +1,30 @@
+	dealers:[
+		{
+			"name": "Union Park BMW",
+			"state": "Delaware",
+			"city": "Wilmington",
+			"address": "1900 Pennsylvania Ave",
+			"zipcode": 19806,
+			"lat": 39.755485,
+			"lng": -75.5680383
+		},
+		{
+			"name": "Audi Wilmington",
+			"state": "Delaware",
+			"city": "Wilmington",
+			"address": "1300 North Union Street",
+			"zipcode": 19806,
+			"lat": 39.7569808,
+			"lng": -75.5668241
+		},
+		{
+			"name": "Union Park Jaguar",
+			"state": "Delaware",
+			"city": "Wilmington",
+			"address": "1900 Pennsylvania Ave",
+			"zipcode": 19806,
+			"lat": 39.7556596,
+			"lng": -75.5673586
+		}
+	]
+
